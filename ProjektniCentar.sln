@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjektniCentar", "ProjektniCentar.csproj", "{F0003579-81D5-4F94-A7DD-7F5FF70568B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjektniCentar.Tests", "..\ProjektniCentar.Tests\ProjektniCentar.Tests.csproj", "{BC15234A-9F6E-47BC-8136-43FD98960499}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
