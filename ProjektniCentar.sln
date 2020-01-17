@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjektniCentar", "ProjektniCentar.csproj", "{F0003579-81D5-4F94-A7DD-7F5FF70568B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjektniCentar.Tests", "..\ProjektniCentar.Tests\ProjektniCentar.Tests.csproj", "{BC15234A-9F6E-47BC-8136-43FD98960499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0003579-81D5-4F94-A7DD-7F5FF70568B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0003579-81D5-4F94-A7DD-7F5FF70568B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0003579-81D5-4F94-A7DD-7F5FF70568B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0003579-81D5-4F94-A7DD-7F5FF70568B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC15234A-9F6E-47BC-8136-43FD98960499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC15234A-9F6E-47BC-8136-43FD98960499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC15234A-9F6E-47BC-8136-43FD98960499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC15234A-9F6E-47BC-8136-43FD98960499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D32A261-984F-4D5F-924D-FE8E90ACF882}
+	EndGlobalSection
+EndGlobal
